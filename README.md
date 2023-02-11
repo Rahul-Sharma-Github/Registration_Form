@@ -1,16 +1,13 @@
-# registration_form
+## Registration/SignUp App UI
 
-A new Flutter project.
+#### - A Simple & Clean Flutter Registration/SignUp App UI.
 
-## Getting Started
+## About Registration/SignUp App UI
 
-This project is a starting point for a Flutter application.
+#### - This is Material Guidelines based Registration/SignUp app.
+#### - We used Material 2 Components to build this Registration/SignUp Page
+#
+#
+## Registration/SignUp App UI =
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/64002004/218254123-50cf3a1e-71c6-449a-9d89-bafe650d5538.png" width="393" height="852">
